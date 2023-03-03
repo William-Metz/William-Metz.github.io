@@ -9,8 +9,10 @@
 			"type": "chrome",
 			"request": "launch",
 			"name": "Launch Chrome against localhost",
-			"url": "https://william-metz.github.io/",
+			"url": "http://localhost:5500",
 			"webRoot": "${workspaceFolder}"
 		}
+				
+		
 	]
 }
