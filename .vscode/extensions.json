@@ -1,6 +1,5 @@
 {
 	"recommendations": [
 		"ms-vscode.live-server"
-	],
-	"cSpell.diagnosticLevel": "Hint"
+	]
 }
